@@ -1,0 +1,17 @@
+{
+  "name": "astronomical-picture",
+  "version": "1.0.0",
+  "description": "Nasa's Astronomical Picture of the Day",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sayuru De Alwis",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "node-fetch": "^3.2.4",
+    "request": "^2.88.2"
+  }
+}
